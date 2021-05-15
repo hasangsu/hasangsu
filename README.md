@@ -4,7 +4,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.leetcode.com/hasangs0894" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" alt="hasangs0894" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/hasangs0894" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" alt="hasangs0894" height="40" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
